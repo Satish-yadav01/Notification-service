@@ -12,7 +12,6 @@ public class Plan {
     private String name;
     private long cost;
     private long deductible;
-
     private String productId;
     private String priceId;
 }

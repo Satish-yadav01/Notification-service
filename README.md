@@ -12,3 +12,4 @@ The [README](https://github.com/abhithube/insurance-portal-angular) in the front
 - **Testing**: JUnit, Mockito
 - **Build**: Maven
 - **CI/CD**: Travis CI, Docker, AWS
+# Notification-service

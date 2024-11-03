@@ -12,6 +12,5 @@ public class Payment {
     private long amount;
     private long createdAt;
     private String plan;
-
     private String invoiceId;
 }
